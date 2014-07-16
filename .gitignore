@@ -8,3 +8,6 @@ app/bower_components
 *.html
 *.css
 *.js
+*.map
+
+
