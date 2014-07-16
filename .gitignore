@@ -4,3 +4,7 @@ dist
 .sass-cache
 app/bower_components
 .idea
+#不提交html、css、js文件#
+*.html
+*.css
+*.js
